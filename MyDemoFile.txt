@@ -1,4 +1,4 @@
 a + b
-a sub b
+a - b
 a div b
 a mul b
